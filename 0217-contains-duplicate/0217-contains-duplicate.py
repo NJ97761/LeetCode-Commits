@@ -6,13 +6,13 @@ class Solution:
             #         return True
                 
             # return False 
-        seen = set()
+        # seen = set()
 
-        for i in nums:
-            if i in seen:
-                return True
-            seen.add(i)
-        return False
+        # for i in nums:
+        #     if i in seen:
+        #         return True
+        #     seen.add(i)
+        # return False
             
-        # return True if len(nums) != len(set(nums)) else False
+        return True if len(nums) != len(set(nums)) else False
         
