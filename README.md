@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NJ97761/LeetCode-Commits/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/NJ97761/LeetCode-Commits/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/NJ97761/LeetCode-Commits/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/NJ97761/LeetCode-Commits/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NJ97761/LeetCode-Commits/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/NJ97761/LeetCode-Commits/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NJ97761/LeetCode-Commits/tree/master/0169-majority-element) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NJ97761/LeetCode-Commits/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NJ97761/LeetCode-Commits/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NJ97761/LeetCode-Commits/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/NJ97761/LeetCode-Commits/tree/master/0169-majority-element) |
 ## Counting
 |  |
