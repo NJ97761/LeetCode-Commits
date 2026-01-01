@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NJ97761/LeetCode-Commits/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/NJ97761/LeetCode-Commits/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/NJ97761/LeetCode-Commits/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/NJ97761/LeetCode-Commits/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -108,4 +109,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/NJ97761/LeetCode-Commits/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/NJ97761/LeetCode-Commits/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/NJ97761/LeetCode-Commits/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
