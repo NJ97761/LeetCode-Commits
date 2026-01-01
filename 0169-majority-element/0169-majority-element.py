@@ -1,0 +1,24 @@
+# from collections import Counter
+class Solution:
+   
+    def majorityElement(self, nums: List[int]) -> int:
+
+        # freq = {}
+        # freq = Counter(nums)
+        # n = len(nums)
+      
+        # for num,count in freq.items():
+        #     if count > n/2:
+        #         return num
+
+        freq = {}
+        n = len(nums)
+
+        for num in nums:
+            freq[num] = freq.get(num,0)+1
+        
+        for num,count in freq.items():
+            if count > n/2:
+                return num
+
+        
