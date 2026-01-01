@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/NJ97761/LeetCode-Commits/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/NJ97761/LeetCode-Commits/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/NJ97761/LeetCode-Commits/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/NJ97761/LeetCode-Commits/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/NJ97761/LeetCode-Commits/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/NJ97761/LeetCode-Commits/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/NJ97761/LeetCode-Commits/tree/master/0904-fruit-into-baskets) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/NJ97761/LeetCode-Commits/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/NJ97761/LeetCode-Commits/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/NJ97761/LeetCode-Commits/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
