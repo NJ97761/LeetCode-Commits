@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NJ97761/LeetCode-Commits/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NJ97761/LeetCode-Commits/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NJ97761/LeetCode-Commits/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/NJ97761/LeetCode-Commits/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/NJ97761/LeetCode-Commits/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/NJ97761/LeetCode-Commits/tree/master/0904-fruit-into-baskets) |
 ## Sorting
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NJ97761/LeetCode-Commits/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/NJ97761/LeetCode-Commits/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/NJ97761/LeetCode-Commits/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/NJ97761/LeetCode-Commits/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/NJ97761/LeetCode-Commits/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/NJ97761/LeetCode-Commits/tree/master/0680-valid-palindrome-ii) |
 ## Trie
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/NJ97761/LeetCode-Commits/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/NJ97761/LeetCode-Commits/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -147,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NJ97761/LeetCode-Commits/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/NJ97761/LeetCode-Commits/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
