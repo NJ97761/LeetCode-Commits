@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NJ97761/LeetCode-Commits/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NJ97761/LeetCode-Commits/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/NJ97761/LeetCode-Commits/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/NJ97761/LeetCode-Commits/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/NJ97761/LeetCode-Commits/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/NJ97761/LeetCode-Commits/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/NJ97761/LeetCode-Commits/tree/master/0217-contains-duplicate) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/NJ97761/LeetCode-Commits/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/NJ97761/LeetCode-Commits/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/NJ97761/LeetCode-Commits/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/NJ97761/LeetCode-Commits/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/NJ97761/LeetCode-Commits/tree/master/0278-first-bad-version) |
