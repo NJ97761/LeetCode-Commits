@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/NJ97761/LeetCode-Commits/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/NJ97761/LeetCode-Commits/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/NJ97761/LeetCode-Commits/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/NJ97761/LeetCode-Commits/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/NJ97761/LeetCode-Commits/tree/master/0268-missing-number) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/NJ97761/LeetCode-Commits/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/NJ97761/LeetCode-Commits/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
