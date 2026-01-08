@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/NJ97761/LeetCode-Commits/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/NJ97761/LeetCode-Commits/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/NJ97761/LeetCode-Commits/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/NJ97761/LeetCode-Commits/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NJ97761/LeetCode-Commits/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NJ97761/LeetCode-Commits/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NJ97761/LeetCode-Commits/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/NJ97761/LeetCode-Commits/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NJ97761/LeetCode-Commits/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/NJ97761/LeetCode-Commits/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/NJ97761/LeetCode-Commits/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/NJ97761/LeetCode-Commits/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
