@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NJ97761/LeetCode-Commits/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/NJ97761/LeetCode-Commits/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NJ97761/LeetCode-Commits/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/NJ97761/LeetCode-Commits/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/NJ97761/LeetCode-Commits/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/NJ97761/LeetCode-Commits/tree/master/0053-maximum-subarray) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NJ97761/LeetCode-Commits/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NJ97761/LeetCode-Commits/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/NJ97761/LeetCode-Commits/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/NJ97761/LeetCode-Commits/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/NJ97761/LeetCode-Commits/tree/master/0567-permutation-in-string) |
