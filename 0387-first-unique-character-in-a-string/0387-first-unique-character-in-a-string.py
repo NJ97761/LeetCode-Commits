@@ -4,8 +4,8 @@ class Solution:
         freq = {}
 
         for char in s:
-            freq[char] = freq.get(char,0)+1
-
+            freq[char] = freq.get(char,0) + 1
+        
         for i in range(len(s)):
             if freq[s[i]] == 1:
                 return i
