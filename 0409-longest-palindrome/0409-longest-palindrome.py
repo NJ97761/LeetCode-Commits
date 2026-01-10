@@ -15,7 +15,7 @@ class Solution:
                 length += count
             
             else:
-                length  = length + count -1
+                length  +=  count -1
                 odd_found = True
         if odd_found:
             length += 1
